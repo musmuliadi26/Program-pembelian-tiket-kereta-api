@@ -1,2 +1,2 @@
 # Tugas UAS Pemrograman terstruktur 
-Program pembelian tiket kerata api dengan C++
+Program pembelian tiket kereta api dengan C++
